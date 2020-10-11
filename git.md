@@ -16,7 +16,7 @@ git push
 git push origin master
 ```
 
-## check ref
+#### check ref
 ```
 git show-ref
 ```
