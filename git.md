@@ -1,6 +1,6 @@
 # git tutorial
 
-#### git status of repositories
+#### status of repositories
 ```bash
 git status
 ```
