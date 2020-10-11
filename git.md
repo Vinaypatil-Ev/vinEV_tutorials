@@ -15,3 +15,8 @@ git add .
 git push
 git push origin master
 ```
+
+## check ref
+```
+git show-ref
+```
